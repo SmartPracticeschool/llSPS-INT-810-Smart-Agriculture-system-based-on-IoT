@@ -1,0 +1,1 @@
+[{"id":"a28d01c2.ffae1","type":"function","z":"89de5643.2017d8","name":"","func":"\nreturn msg;","outputs":1,"noerr":0,"x":310,"y":220,"wires":[[]]}]
